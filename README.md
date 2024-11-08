@@ -23,7 +23,7 @@ Projects
   Order Volume: Bar chart showing the number of orders by year, providing insights into growth patterns.
   Shipping Costs: Treemap representing shipping costs by state, allowing for cost analysis across regions.
   Objective: To enable data-driven decision-making by presenting sales, profit, and cost metrics in a clear, interactive, and accessible format.
-![image](https://github.com/user-attachments/assets/dd58d64b-1739-40d2-95b2-2691005e8315)
+  ![image](https://github.com/user-attachments/assets/dd58d64b-1739-40d2-95b2-2691005e8315)
 
 Getting Started
 Clone the Repository:
@@ -31,14 +31,13 @@ Clone the Repository:
 
 Copy code
 git clone https://github.com/ifatihcan/data-visualization.git
-File Structure:
 
-/Excel/: Excel dashboard files (.xlsx)
-/Tableau/: Tableau dashboard files (.twbx)
-/PowerBI/: Power BI dashboard files (.pbix)
+File Structure:
+Excel: Excel dashboard files (.xlsx)
+Tableau: Tableau dashboard files (.twbx)
+PowerBI: Power BI dashboard files (.pbix)
 
 Requirements:
-
 Excel (for .xlsx files)
 Tableau Desktop (for .twbx files)
 Power BI Desktop (for .pbix files)
