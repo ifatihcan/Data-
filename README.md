@@ -9,6 +9,7 @@ Tableau Dashboards: Visualizations designed in Tableau, highlighting trends, pat
 Power BI Dashboards: Comprehensive reports with dynamic filters and visual analytics to provide an interactive data exploration experience.
 
 
+![image](https://github.com/user-attachments/assets/dd58d64b-1739-40d2-95b2-2691005e8315)
 
 Getting Started
 Clone the Repository:
