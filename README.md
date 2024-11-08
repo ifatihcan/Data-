@@ -12,17 +12,17 @@ Projects
 
 1. Sales Dashboard:This Excel-based dashboard provides a comprehensive overview of sales performance across different states, customer segments, and product sub-categories. It is designed to help stakeholders quickly identify trends, analyze profit distribution, and understand key sales metrics.
 
-Features:
+  Features:
 
-Filters: Interactive filters for years, states, and product sub-categories to customize the data view.
-Sales vs. Profit Analysis: Line and bar chart showing sales and profit comparison by product sub-category.
-Profit Distribution: Pie chart representing profit percentage by sub-category, highlighting the most profitable areas.
-Geographic Sales Analysis: Map visualization showing profit by state, enabling regional performance insights.
-Customer Segment Breakdown: Donut chart illustrating sales distribution across different customer segments (Home Office, Corporate, Consumer).
-Quarterly Sales Trends: Stacked bar chart displaying quarterly sales trends by sub-category.
-Order Volume: Bar chart showing the number of orders by year, providing insights into growth patterns.
-Shipping Costs: Treemap representing shipping costs by state, allowing for cost analysis across regions.
-Objective: To enable data-driven decision-making by presenting sales, profit, and cost metrics in a clear, interactive, and accessible format.
+  Filters: Interactive filters for years, states, and product sub-categories to customize the data view.
+  Sales vs. Profit Analysis: Line and bar chart showing sales and profit comparison by product sub-category.
+  Profit Distribution: Pie chart representing profit percentage by sub-category, highlighting the most profitable areas.
+  Geographic Sales Analysis: Map visualization showing profit by state, enabling regional performance insights.
+  Customer Segment Breakdown: Donut chart illustrating sales distribution across different customer segments (Home Office, Corporate, Consumer).
+  Quarterly Sales Trends: Stacked bar chart displaying quarterly sales trends by sub-category.
+  Order Volume: Bar chart showing the number of orders by year, providing insights into growth patterns.
+  Shipping Costs: Treemap representing shipping costs by state, allowing for cost analysis across regions.
+  Objective: To enable data-driven decision-making by presenting sales, profit, and cost metrics in a clear, interactive, and accessible format.
 ![image](https://github.com/user-attachments/assets/dd58d64b-1739-40d2-95b2-2691005e8315)
 
 Getting Started
